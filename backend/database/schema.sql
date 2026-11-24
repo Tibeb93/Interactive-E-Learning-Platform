@@ -1,0 +1,25 @@
+-- =============================================================================
+-- Interactive E-Learning Platform - Database Schema
+-- 19 Normalized Relational Tables (InnoDB, UTF8MB4)
+-- =============================================================================
+
+-- 1. roles
+-- 2. users
+-- 3. password_resets
+-- 4. categories
+-- 5. courses
+-- 6. course_modules
+-- 7. lessons
+-- 8. materials
+-- 9. enrollments
+-- 10. lesson_progress
+-- 11. exercises
+-- 12. exercise_submissions
+-- 13. quizzes
+-- 14. questions
+-- 15. question_options
+-- 16. quiz_attempts
+-- 17. quiz_answers
+-- 18. certificates
+-- 19. course_reviews
+
